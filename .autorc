@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "explorer92",
+  "repo": "container-e3uxm6a",
+  "name": "explorer92",
+  "email": "epardie80@gmail.com",
+}
